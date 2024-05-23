@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=times-new-roman:wght@200;300;400;500;600;700;800&display=swap');
+
+:root {
+  --font-family: 'Times New Roman', sans-serif;
+
+  --gradient-text: linear-gradient(89.97deg, #AEA 1.84%, #F47 102.67%);
+  --gradient-bar: linear-gradient(103.22deg, #AEA -13.86%, #F47 99.55%);
+  
+  --color-bg: #048;
+  --color-footer : #034;
+  --color-blog: #044;
+  --color-text: #81D;
+  --color-subtext: #FF8;
+}
