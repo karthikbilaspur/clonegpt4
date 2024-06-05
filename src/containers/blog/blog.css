@@ -11,9 +11,9 @@
 
 .gpt4__blog-heading h1 {
     font-size: 62px;
-    line-height: 75px;
+    line-height: 70px;
     font-family: var(--font-family);
-    font-weight: 800;
+    font-weight: 700;
 }
 
 .gpt4__blog-container {
@@ -27,7 +27,6 @@
 
 .gpt4__blog-container_groupB {
     flex: 1;
-
     display:grid;
     grid-template-columns: repeat(1, 1fr);
     grid-gap: 2rem;
