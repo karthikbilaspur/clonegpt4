@@ -37,7 +37,7 @@
 .gpt4__navbar-menu_container p {
     color: #fff;
     font-family: var(--font-family);
-    font-weight: 600;
+    font-weight: 700;
     font-size: 18px;
     line-height: 25px;
     text-transform: capitalize;
@@ -48,9 +48,9 @@
 
 .gpt4__navbar-sign button,
 .gpt4__navbar-menu_container button {
-    padding: 0.5rem 1rem;
+    padding: 0.5rem;
     color: #fff;
-    background: #FF4820;
+    background: #FF8;
     font-family: var(--font-family);
     font-weight: 500;
     font-size: 18px;
@@ -122,7 +122,7 @@
     }
 
     .gpt4__navbar-menu_container {
-        top: 20px;
+        top: 22px;
     }
 
     .gpt4__navbar-menu_container-links-sign {
