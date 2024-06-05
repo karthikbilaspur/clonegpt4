@@ -14,10 +14,10 @@
 
 .gpt4__header-content h1 {
     font-family: var(--font-family);
-    font-weight: 800;
+    font-weight: 700;
     font-size: 62px;
     line-height: 75px;
-    letter-spacing: -0.08em;
+    letter-spacing: -0.07em;
 }
 
 .gpt4__header-content p {
@@ -49,9 +49,8 @@
     background: var(--color-footer);
     border: 2px solid var(--color-footer);
     padding: 1rem;
-    outline: none;
     color: #fff;
-
+    
     border-top-left-radius: 5px;
     border-bottom-left-radius: 5px;
 }
@@ -71,9 +70,7 @@
     cursor: pointer;
     outline: none;
 
-    border-top-right-radius: 5px;
-    border-bottom-right-radius: 5px;
-}
+    }
 
 .gpt4__header-content__people {
     width: 100%;
