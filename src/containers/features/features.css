@@ -17,8 +17,8 @@
 
 .gpt4__features-heading h1 {
     font-size: 34px;
-    line-height: 45px;
-    font-weight: 800;
+    line-height: 40px;
+    font-weight: 700;0
     font-family: var(--font-family);
 }
 
@@ -33,7 +33,7 @@
 }
 
 .gpt4__features-container {
-    flex: 1.5;
+    flex: 1.25;
     display: flex;
     justify-content: flex-start;
     align-items: center;
